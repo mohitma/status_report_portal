@@ -1,0 +1,58 @@
+<!DOCTYPE validators PUBLIC "-//OpenSymphony Group//XWork Validator 1.0.2//EN"
+"http://www.opensymphony.com/xwork/xwork-validator-1.0.2.dtd">
+<validators>  
+    <field name="role">  
+        <field-validator type="requiredstring">  
+            <param name="trim">true</param>  
+            <message>Please select the role.</message>  
+        </field-validator>  
+    </field>  
+    <field name="task">  
+        <field-validator type="requiredstring">  
+            <param name="trim">true</param>  
+            <message>Please enter your task.</message>  
+        </field-validator>  
+    </field>  
+     <field name="work_done_today">  
+        <field-validator type="requiredstring">  
+            <param name="trim">true</param>  
+            <message>Please enter your work done of today.</message>  
+        </field-validator>  
+    </field>  
+    <!-- <field name="impediments">  
+        <field-validator type="requiredstring">  
+            <param name="trim">true</param>  
+            <message>Impediments is required</message>  
+        </field-validator>  
+    </field>
+     <field name="comments">  
+        <field-validator type="requiredstring">  
+            <param name="trim">true</param>  
+            <message>comments is required</message> 
+        </field-validator>  
+    </field>  --> 
+    <field name="status">  
+        <field-validator type="requiredstring">  
+            <param name="trim">true</param>  
+            <message>Status is required</message>  
+        </field-validator>  
+    </field>    
+    <field name="plan">  
+        <field-validator type="requiredstring">  
+            <param name="trim">true</param>  
+            <message>Please enter your plan for next day.</message>  
+        </field-validator>  
+    </field>
+      <field name="todaydate">  
+        <field-validator type="requiredstring">  
+            <param name="trim">true</param>  
+            <message>Please select previous date.</message>  
+        </field-validator>  
+    </field> 
+      <field name="previousdate">  
+        <field-validator type="requiredstring">  
+            <param name="trim">true</param>  
+            <message>Please select previous date.</message>  
+        </field-validator>  
+    </field> 
+</validators> 

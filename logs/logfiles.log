@@ -1,0 +1,597 @@
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@6212dd, property=templateDir]
+2014-03-05 12:32:55 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ac5099bc,org.apache.struts2.util.AttributeMap@6212dd,theme)
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@6212dd, property=theme]
+2014-03-05 12:32:55 DEBUG UIBean:526 - Rendering template /template/xhtml/text
+2014-03-05 12:32:55 DEBUG cache:81 - template/xhtml/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/text.ftl
+2014-03-05 12:32:55 DEBUG cache:81 - template/xhtml/controlheader.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG cache:81 - template/xhtml/controlheader-core.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@738dcb, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@738dcb, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:55 DEBUG cache:81 - template/xhtml/tooltip.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG cache:81 - template/simple/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@b7cbc2ac,{templateDir=template, theme=xhtml, name=projectManager, label=Project Manager, nameValue=, id=projectmanager, escapedId=projectmanager, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName, projectManager], onsubmit=return true;}},nameValue)
+2014-03-05 12:32:55 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ad9621b6,org.apache.struts2.util.AttributeMap@161cd25,templateDir)
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@161cd25, property=templateDir]
+2014-03-05 12:32:55 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ad9621b6,org.apache.struts2.util.AttributeMap@161cd25,theme)
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@161cd25, property=theme]
+2014-03-05 12:32:55 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ad9621b6,org.apache.struts2.util.AttributeMap@161cd25,templateDir)
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@161cd25, property=templateDir]
+2014-03-05 12:32:55 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ad9621b6,org.apache.struts2.util.AttributeMap@161cd25,theme)
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@161cd25, property=theme]
+2014-03-05 12:32:55 DEBUG UIBean:526 - Rendering template /template/xhtml/submit
+2014-03-05 12:32:55 DEBUG cache:81 - template/xhtml/submit.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/submit.ftl
+2014-03-05 12:32:55 DEBUG cache:81 - template/simple/submit.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ce001691,{templateDir=template, theme=xhtml, name=Submit, label=Create, cssClass=green, nameValue=Create, id=projectCreationForm_Submit, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName, projectManager, Submit], onsubmit=return true;}, type=input, align=center, body=},nameValue)
+2014-03-05 12:32:55 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:55 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a3892b70,org.apache.struts2.util.AttributeMap@161cd25,templateDir)
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@161cd25, property=templateDir]
+2014-03-05 12:32:55 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a3892b70,org.apache.struts2.util.AttributeMap@161cd25,theme)
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@161cd25, property=theme]
+2014-03-05 12:32:55 WARN  Form:308 - No configuration found for the specified action: '' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+2014-03-05 12:32:55 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a3892b70,org.apache.struts2.util.AttributeMap@161cd25,templateDir)
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:55 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@161cd25, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a3892b70,org.apache.struts2.util.AttributeMap@161cd25,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@161cd25, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/form-close
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/form-close.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/form-close.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/control-close.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/form-close.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/form-close-validate.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=org]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=struts]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@94a48675,org.apache.struts2.util.AttributeMap@f6852d,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@f6852d, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@f9784590,org.apache.struts2.util.AttributeMap@f6852d,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@f6852d, property=theme]
+2014-03-05 12:32:56 WARN  Form:308 - No configuration found for the specified action: '' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@f9784590,org.apache.struts2.util.AttributeMap@f6852d,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@f6852d, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@f9784590,org.apache.struts2.util.AttributeMap@f6852d,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@f6852d, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/form
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/form.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/form.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/form-validate.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/form.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/control.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@aa9f6f56,org.apache.struts2.util.AttributeMap@1959352,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1959352, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@aa9f6f56,org.apache.struts2.util.AttributeMap@1959352,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1959352, property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=projectCode]
+2014-03-05 12:32:56 DEBUG XWorkConverter:388 - Property: parameters
+2014-03-05 12:32:56 DEBUG XWorkConverter:389 - Class: org.apache.struts2.components.Form
+2014-03-05 12:32:56 DEBUG XWorkConverter:278 - field-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:302 - global-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:320 - falling back to default type converter [com.opensymphony.xwork2.util.XWorkBasicConverter@9f3e95]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@aa9f6f56,org.apache.struts2.util.AttributeMap@1959352,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1959352, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@aa9f6f56,org.apache.struts2.util.AttributeMap@1959352,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1959352, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/text
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/text.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader-core.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@1966070, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@1966070, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/tooltip.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@c65ebdb3,{templateDir=template, theme=xhtml, name=projectCode, label=Project Code, nameValue=, id=projectcode, escapedId=projectcode, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode], onsubmit=return true;}},nameValue)
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a93466f8,org.apache.struts2.util.AttributeMap@1e779a7,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1e779a7, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a93466f8,org.apache.struts2.util.AttributeMap@1e779a7,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1e779a7, property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=projectName]
+2014-03-05 12:32:56 DEBUG XWorkConverter:388 - Property: parameters
+2014-03-05 12:32:56 DEBUG XWorkConverter:389 - Class: org.apache.struts2.components.TextField
+2014-03-05 12:32:56 DEBUG XWorkConverter:278 - field-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:302 - global-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:320 - falling back to default type converter [com.opensymphony.xwork2.util.XWorkBasicConverter@9f3e95]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a93466f8,org.apache.struts2.util.AttributeMap@1e779a7,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1e779a7, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a93466f8,org.apache.struts2.util.AttributeMap@1e779a7,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1e779a7, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/text
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/text.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader-core.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@119b1ca, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@119b1ca, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/tooltip.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@b80cef3d,{templateDir=template, theme=xhtml, name=projectName, label=Project Name , nameValue=, id=projectname, escapedId=projectname, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName], onsubmit=return true;}},nameValue)
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a7aa6762,org.apache.struts2.util.AttributeMap@147a16f,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@147a16f, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a7aa6762,org.apache.struts2.util.AttributeMap@147a16f,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@147a16f, property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=projectManager]
+2014-03-05 12:32:56 DEBUG XWorkConverter:388 - Property: parameters
+2014-03-05 12:32:56 DEBUG XWorkConverter:389 - Class: org.apache.struts2.components.TextField
+2014-03-05 12:32:56 DEBUG XWorkConverter:278 - field-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:302 - global-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:320 - falling back to default type converter [com.opensymphony.xwork2.util.XWorkBasicConverter@9f3e95]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a7aa6762,org.apache.struts2.util.AttributeMap@147a16f,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@147a16f, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a7aa6762,org.apache.struts2.util.AttributeMap@147a16f,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@147a16f, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/text
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/text.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader-core.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@24c22b, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@24c22b, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/tooltip.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@9aacbe76,{templateDir=template, theme=xhtml, name=projectManager, label=Project Manager, nameValue=, id=projectmanager, escapedId=projectmanager, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName, projectManager], onsubmit=return true;}},nameValue)
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a8d7cf7a,org.apache.struts2.util.AttributeMap@270fc4,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@270fc4, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a8d7cf7a,org.apache.struts2.util.AttributeMap@270fc4,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@270fc4, property=theme]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a8d7cf7a,org.apache.struts2.util.AttributeMap@270fc4,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@270fc4, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a8d7cf7a,org.apache.struts2.util.AttributeMap@270fc4,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@270fc4, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/submit
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/submit.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/submit.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/submit.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@99839278,{templateDir=template, theme=xhtml, name=Submit, label=Create, cssClass=green, nameValue=Create, id=projectCreationForm_Submit, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName, projectManager, Submit], onsubmit=return true;}, type=input, align=center, body=},nameValue)
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@9f44e3a1,org.apache.struts2.util.AttributeMap@270fc4,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@270fc4, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@9f44e3a1,org.apache.struts2.util.AttributeMap@270fc4,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@270fc4, property=theme]
+2014-03-05 12:32:56 WARN  Form:308 - No configuration found for the specified action: '' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@9f44e3a1,org.apache.struts2.util.AttributeMap@270fc4,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@270fc4, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@9f44e3a1,org.apache.struts2.util.AttributeMap@270fc4,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@270fc4, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/form-close
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/form-close.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/form-close.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/control-close.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/form-close.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/form-close-validate.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=org]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=struts]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@983c7233,org.apache.struts2.util.AttributeMap@1e6cf07,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1e6cf07, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@fd10314e,org.apache.struts2.util.AttributeMap@1e6cf07,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1e6cf07, property=theme]
+2014-03-05 12:32:56 WARN  Form:308 - No configuration found for the specified action: '' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@fd10314e,org.apache.struts2.util.AttributeMap@1e6cf07,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1e6cf07, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@fd10314e,org.apache.struts2.util.AttributeMap@1e6cf07,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1e6cf07, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/form
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/form.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/form.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/form-validate.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/form.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/control.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@c2a81ce2,org.apache.struts2.util.AttributeMap@1a3f178,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1a3f178, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@c2a81ce2,org.apache.struts2.util.AttributeMap@1a3f178,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1a3f178, property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=projectCode]
+2014-03-05 12:32:56 DEBUG XWorkConverter:388 - Property: parameters
+2014-03-05 12:32:56 DEBUG XWorkConverter:389 - Class: org.apache.struts2.components.Form
+2014-03-05 12:32:56 DEBUG XWorkConverter:278 - field-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:302 - global-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:320 - falling back to default type converter [com.opensymphony.xwork2.util.XWorkBasicConverter@9f3e95]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@c2a81ce2,org.apache.struts2.util.AttributeMap@1a3f178,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1a3f178, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@c2a81ce2,org.apache.struts2.util.AttributeMap@1a3f178,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@1a3f178, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/text
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/text.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader-core.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@14a616, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@14a616, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/tooltip.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@66fe195f,{templateDir=template, theme=xhtml, name=projectCode, label=Project Code, nameValue=, id=projectcode, escapedId=projectcode, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode], onsubmit=return true;}},nameValue)
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d1155633,org.apache.struts2.util.AttributeMap@118a770,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@118a770, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d1155633,org.apache.struts2.util.AttributeMap@118a770,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@118a770, property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=projectName]
+2014-03-05 12:32:56 DEBUG XWorkConverter:388 - Property: parameters
+2014-03-05 12:32:56 DEBUG XWorkConverter:389 - Class: org.apache.struts2.components.TextField
+2014-03-05 12:32:56 DEBUG XWorkConverter:278 - field-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:302 - global-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:320 - falling back to default type converter [com.opensymphony.xwork2.util.XWorkBasicConverter@9f3e95]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d1155633,org.apache.struts2.util.AttributeMap@118a770,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@118a770, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d1155633,org.apache.struts2.util.AttributeMap@118a770,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@118a770, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/text
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/text.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader-core.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@9549af, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@9549af, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/tooltip.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@7732ef12,{templateDir=template, theme=xhtml, name=projectName, label=Project Name , nameValue=, id=projectname, escapedId=projectname, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName], onsubmit=return true;}},nameValue)
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d2555abf,org.apache.struts2.util.AttributeMap@13e9934,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@13e9934, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d2555abf,org.apache.struts2.util.AttributeMap@13e9934,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@13e9934, property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=projectManager]
+2014-03-05 12:32:56 DEBUG XWorkConverter:388 - Property: parameters
+2014-03-05 12:32:56 DEBUG XWorkConverter:389 - Class: org.apache.struts2.components.TextField
+2014-03-05 12:32:56 DEBUG XWorkConverter:278 - field-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:302 - global-level type converter for property [parameters] = none found
+2014-03-05 12:32:56 DEBUG XWorkConverter:320 - falling back to default type converter [com.opensymphony.xwork2.util.XWorkBasicConverter@9f3e95]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d2555abf,org.apache.struts2.util.AttributeMap@13e9934,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@13e9934, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d2555abf,org.apache.struts2.util.AttributeMap@13e9934,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@13e9934, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/text
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/text.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlheader-core.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@da9067, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@da9067, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/tooltip.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@6fea709a,{templateDir=template, theme=xhtml, name=projectManager, label=Project Manager, nameValue=, id=projectmanager, escapedId=projectmanager, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName, projectManager], onsubmit=return true;}},nameValue)
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d14d14a3,org.apache.struts2.util.AttributeMap@4d8d50,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@4d8d50, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d14d14a3,org.apache.struts2.util.AttributeMap@4d8d50,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@4d8d50, property=theme]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d14d14a3,org.apache.struts2.util.AttributeMap@4d8d50,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@4d8d50, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@d14d14a3,org.apache.struts2.util.AttributeMap@4d8d50,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@4d8d50, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/submit
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/submit.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/submit.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/submit.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@8357def7,{templateDir=template, theme=xhtml, name=Submit, label=Create, cssClass=green, nameValue=Create, id=projectCreationForm_Submit, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName, projectManager, Submit], onsubmit=return true;}, type=input, align=center, body=},nameValue)
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a398faa5,org.apache.struts2.util.AttributeMap@4d8d50,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@4d8d50, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a398faa5,org.apache.struts2.util.AttributeMap@4d8d50,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@4d8d50, property=theme]
+2014-03-05 12:32:56 WARN  Form:308 - No configuration found for the specified action: '' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a398faa5,org.apache.struts2.util.AttributeMap@4d8d50,templateDir)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@4d8d50, property=templateDir]
+2014-03-05 12:32:56 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a398faa5,org.apache.struts2.util.AttributeMap@4d8d50,theme)
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:32:56 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@4d8d50, property=theme]
+2014-03-05 12:32:56 DEBUG UIBean:526 - Rendering template /template/xhtml/form-close
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/form-close.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/form-close.ftl
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/control-close.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/simple/form-close.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:32:56 DEBUG cache:81 - template/xhtml/form-close-validate.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=org]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=struts]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@974f1cec,org.apache.struts2.util.AttributeMap@722969,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@722969, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@fc22dc07,org.apache.struts2.util.AttributeMap@722969,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@722969, property=theme]
+2014-03-05 12:33:43 WARN  Form:308 - No configuration found for the specified action: '' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@fc22dc07,org.apache.struts2.util.AttributeMap@722969,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@722969, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@fc22dc07,org.apache.struts2.util.AttributeMap@722969,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@722969, property=theme]
+2014-03-05 12:33:43 DEBUG UIBean:526 - Rendering template /template/xhtml/form
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/form.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/form.ftl didn't change.
+2014-03-05 12:33:43 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/form.ftl
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/form-validate.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/form-validate.ftl didn't change.
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/form.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/simple/form.ftl didn't change.
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/control.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/control.ftl didn't change.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ca6a5c42,org.apache.struts2.util.AttributeMap@3f4a21,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@3f4a21, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ca6a5c42,org.apache.struts2.util.AttributeMap@3f4a21,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@3f4a21, property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=projectCode]
+2014-03-05 12:33:43 DEBUG XWorkConverter:388 - Property: parameters
+2014-03-05 12:33:43 DEBUG XWorkConverter:389 - Class: org.apache.struts2.components.Form
+2014-03-05 12:33:43 DEBUG XWorkConverter:278 - field-level type converter for property [parameters] = none found
+2014-03-05 12:33:43 DEBUG XWorkConverter:302 - global-level type converter for property [parameters] = none found
+2014-03-05 12:33:43 DEBUG XWorkConverter:320 - falling back to default type converter [com.opensymphony.xwork2.util.XWorkBasicConverter@9f3e95]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ca6a5c42,org.apache.struts2.util.AttributeMap@3f4a21,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@3f4a21, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ca6a5c42,org.apache.struts2.util.AttributeMap@3f4a21,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@3f4a21, property=theme]
+2014-03-05 12:33:43 DEBUG UIBean:526 - Rendering template /template/xhtml/text
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/text.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/text.ftl didn't change.
+2014-03-05 12:33:43 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/text.ftl
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/controlheader.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/controlheader.ftl didn't change.
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/controlheader-core.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/controlheader-core.ftl didn't change.
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@1c4e792, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@1c4e792, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/tooltip.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/tooltip.ftl didn't change.
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/text.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/simple/text.ftl didn't change.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@93a13adf,{templateDir=template, theme=xhtml, name=projectCode, label=Project Code, nameValue=, id=projectcode, escapedId=projectcode, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode], onsubmit=return true;}},nameValue)
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/simple/scripting-events.ftl didn't change.
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/simple/common-attributes.ftl didn't change.
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/controlfooter.ftl didn't change.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@cb1ce7a1,org.apache.struts2.util.AttributeMap@f51766,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@f51766, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@cb1ce7a1,org.apache.struts2.util.AttributeMap@f51766,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@f51766, property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=projectName]
+2014-03-05 12:33:43 DEBUG XWorkConverter:388 - Property: parameters
+2014-03-05 12:33:43 DEBUG XWorkConverter:389 - Class: org.apache.struts2.components.TextField
+2014-03-05 12:33:43 DEBUG XWorkConverter:278 - field-level type converter for property [parameters] = none found
+2014-03-05 12:33:43 DEBUG XWorkConverter:302 - global-level type converter for property [parameters] = none found
+2014-03-05 12:33:43 DEBUG XWorkConverter:320 - falling back to default type converter [com.opensymphony.xwork2.util.XWorkBasicConverter@9f3e95]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@cb1ce7a1,org.apache.struts2.util.AttributeMap@f51766,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@f51766, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@cb1ce7a1,org.apache.struts2.util.AttributeMap@f51766,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@f51766, property=theme]
+2014-03-05 12:33:43 DEBUG UIBean:526 - Rendering template /template/xhtml/text
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/text.ftl
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/controlheader.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/controlheader-core.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@130b5e2, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@130b5e2, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/tooltip.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@8303a9dc,{templateDir=template, theme=xhtml, name=projectName, label=Project Name , nameValue=, id=projectname, escapedId=projectname, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName], onsubmit=return true;}},nameValue)
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ca6cb268,org.apache.struts2.util.AttributeMap@a0c486,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@a0c486, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ca6cb268,org.apache.struts2.util.AttributeMap@a0c486,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@a0c486, property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=projectManager]
+2014-03-05 12:33:43 DEBUG XWorkConverter:388 - Property: parameters
+2014-03-05 12:33:43 DEBUG XWorkConverter:389 - Class: org.apache.struts2.components.TextField
+2014-03-05 12:33:43 DEBUG XWorkConverter:278 - field-level type converter for property [parameters] = none found
+2014-03-05 12:33:43 DEBUG XWorkConverter:302 - global-level type converter for property [parameters] = none found
+2014-03-05 12:33:43 DEBUG XWorkConverter:320 - falling back to default type converter [com.opensymphony.xwork2.util.XWorkBasicConverter@9f3e95]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ca6cb268,org.apache.struts2.util.AttributeMap@a0c486,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@a0c486, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@ca6cb268,org.apache.struts2.util.AttributeMap@a0c486,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@a0c486, property=theme]
+2014-03-05 12:33:43 DEBUG UIBean:526 - Rendering template /template/xhtml/text
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/text.ftl
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/controlheader.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/controlheader-core.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@9021e3, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[org.apache.struts2.components.TextField@9021e3, com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=fieldErrors]
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/tooltip.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/text.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@6eb908dc,{templateDir=template, theme=xhtml, name=projectManager, label=Project Manager, nameValue=, id=projectmanager, escapedId=projectmanager, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName, projectManager], onsubmit=return true;}},nameValue)
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@cb0d00ab,org.apache.struts2.util.AttributeMap@6ecec5,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@6ecec5, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@cb0d00ab,org.apache.struts2.util.AttributeMap@6ecec5,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@6ecec5, property=theme]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@cb0d00ab,org.apache.struts2.util.AttributeMap@6ecec5,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@6ecec5, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@cb0d00ab,org.apache.struts2.util.AttributeMap@6ecec5,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@6ecec5, property=theme]
+2014-03-05 12:33:43 DEBUG UIBean:526 - Rendering template /template/xhtml/submit
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/submit.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/submit.ftl didn't change.
+2014-03-05 12:33:43 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/submit.ftl
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/submit.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/simple/submit.ftl didn't change.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@9b50cc07,{templateDir=template, theme=xhtml, name=Submit, label=Create, cssClass=green, nameValue=Create, id=projectCreationForm_Submit, form={templateDir=template, theme=xhtml, cssClass=forms, id=projectCreationForm, action=, namespace=, method=post, tagNames=[projectCode, projectName, projectManager, Submit], onsubmit=return true;}, type=input, align=center, body=},nameValue)
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/scripting-events.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG cache:81 - template/simple/common-attributes.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/controlfooter.ftl[en_US,UTF-8,parsed] cached copy not yet stale; using cached.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a3d53f61,org.apache.struts2.util.AttributeMap@6ecec5,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@6ecec5, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a3d53f61,org.apache.struts2.util.AttributeMap@6ecec5,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@6ecec5, property=theme]
+2014-03-05 12:33:43 WARN  Form:308 - No configuration found for the specified action: '' in namespace: '/'. Form action defaulting to 'action' attribute's literal value.
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a3d53f61,org.apache.struts2.util.AttributeMap@6ecec5,templateDir)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=templateDir]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@6ecec5, property=templateDir]
+2014-03-05 12:33:43 DEBUG XWorkMapPropertyAccessor:33 - Entering getProperty (ognl.OgnlContext@a3d53f61,org.apache.struts2.util.AttributeMap@6ecec5,theme)
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=[com.opensymphony.xwork2.DefaultTextProvider@f2225f], property=theme]
+2014-03-05 12:33:43 DEBUG InstantiatingNullHandler:72 - Entering nullPropertyValue [target=org.apache.struts2.util.AttributeMap@6ecec5, property=theme]
+2014-03-05 12:33:43 DEBUG UIBean:526 - Rendering template /template/xhtml/form-close
+2014-03-05 12:33:43 DEBUG cache:81 - template/xhtml/form-close.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/form-close.ftl didn't change.
+2014-03-05 12:33:43 DEBUG FreemarkerTemplateEngine:135 - Rendering template /template/xhtml/form-close.ftl
+2014-03-05 12:33:44 DEBUG cache:81 - template/xhtml/control-close.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/control-close.ftl didn't change.
+2014-03-05 12:33:44 DEBUG cache:81 - template/simple/form-close.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/simple/form-close.ftl didn't change.
+2014-03-05 12:33:44 DEBUG cache:81 - template/xhtml/form-close-validate.ftl[en_US,UTF-8,parsed] using cached since jar:file:/C:/Users/rajashribh/NewWorkspace_15Jan14/.metadata/.plugins/org.eclipse.wst.server.core/tmp2/wtpwebapps/Status%20Report%20Portal/WEB-INF/lib/struts2-core-2.0.11.jar!/template/xhtml/form-close-validate.ftl didn't change.
